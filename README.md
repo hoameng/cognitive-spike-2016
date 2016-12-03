@@ -1,3 +1,2 @@
 # cognitive-spike-2016
-
-Code for Ung et al paper will be made publicly available upon publication.
+These scripts were used to collate spikes and conduct the statistical analysis for Ung et al, "Interictal Epileptiform Activity outside the Seizure Onset Zone Impacts Cognition", currently in submission
