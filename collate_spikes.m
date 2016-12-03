@@ -2,7 +2,8 @@ function collate_spikes(userID, pwdFile)
 %Usage: run_spike_detection(userID,pwdFile)
 % userID - IEEG.org username
 % pwdFile - password file for associated username
-% Program will collate spikes all datasets included in study
+% Program will collate spikes all datasets included in study and write
+% results to table
 
 session = IEEGSession('I022_P009_D01', userID, pwdFile);
 subj = [1:2 4:17];
