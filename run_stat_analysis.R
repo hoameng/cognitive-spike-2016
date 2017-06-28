@@ -1,5 +1,3 @@
-setwd("C:/Users/Hoameng/Dropbox/R/CognitiveSpike/Rdata")
-setwd("~/Dropbox/R/CognitiveSpike/Rdata")
 usePackage <- function(p) {
   if (!is.element(p, installed.packages()[,1]))
     install.packages(p, dep = TRUE)
